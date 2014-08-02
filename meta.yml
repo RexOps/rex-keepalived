@@ -1,0 +1,6 @@
+Name: Keepalived
+Description: An example keepalived module
+Author: jan gehring <jan.gehring@gmail.com>
+License: Apache 2.0
+Require:
+  - Rex::Ext::ParamLookup
